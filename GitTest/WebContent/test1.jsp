@@ -11,6 +11,5 @@
 <h2>수정</h2>
 <h3>client</h3>
 <h3>server</h3>
-    test
 </body>
 </html>
